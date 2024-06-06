@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697762922 source:c:\users\danic\desktop\cisc3320\hw2\cisc3320_hw2\src\analyzewords.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<thread>
+	<unordered_map>
+	<mutex>
+	<string>
+
+1697405245 source:c:\users\danic\desktop\cisc3320\hw2\cisc3320_hw2\src\launchprocess.cpp
+
